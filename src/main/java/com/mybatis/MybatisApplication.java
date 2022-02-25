@@ -11,5 +11,5 @@ public class MybatisApplication {
         SpringApplication.run(MybatisApplication.class, args);
     }
     public void test1(){}
-
+    public void test2(){}
 }
